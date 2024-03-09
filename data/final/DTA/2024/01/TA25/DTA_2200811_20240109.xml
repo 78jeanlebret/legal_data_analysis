@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validation-document.xsd">
+<Donnees_Techniques>
+<Identification>DTA_2200811_20240109.xml</Identification>
+<Date_Mise_Jour>2024-01-18</Date_Mise_Jour>
+</Donnees_Techniques>
+<Dossier>
+<Code_Juridiction>TA25</Code_Juridiction>
+<Nom_Juridiction>Tribunal Administratif de Besançon</Nom_Juridiction>
+<Numero_Dossier>2200811</Numero_Dossier>
+<Date_Lecture>2024-01-09</Date_Lecture>
+<Avocat_Requerant>SIRAT</Avocat_Requerant>
+<Type_Decision>Décision</Type_Decision>
+<Type_Recours>Interprétation</Type_Recours>
+<Code_Publication></Code_Publication>
+<Solution>Rejet</Solution>
+</Dossier>
+<Audience>
+<Date_Audience>2023-12-05</Date_Audience>
+<Numero_Role>19669</Numero_Role>
+<Formation_Jugement>1ère chambre</Formation_Jugement>
+</Audience>
+<Decision>
+<Texte_Integral><p>Vu la procédure suivante :</p>
+<p>Par une requête, enregistrée le 13 mai 2022, M. D A et Mme B A, représentés par Me Sirat, demandent au tribunal :</p>
+<p>1°) de prononcer la décharge des cotisations supplémentaires d'impôt sur le revenu et de contributions sociales auxquelles ils ont été assujettis au titre de l'année 2016 ainsi que des pénalités correspondantes ;</p>
+<p>2°) de mettre à la charge de l'Etat la somme de 2 000 euros, en application des dispositions de l'article L. 761-1 du code de justice.</p>
+<p>Ils soutiennent que : </p>
+<p>- le redressement opéré par l'administration, au regard des motifs avancés dans la proposition de rectification, n'entre pas dans le champ d'application du a. de l'article 111 du code général des impôts ;</p>
+<p>- à titre subsidiaire, si les dispositions de cet article devaient être considérées comme s'appliquant au litige, la présomption de distribution devrait être utilement renversée par la comptabilité de la société Majestic Cinémas qui constitue un commencement de preuve, et le fait que la somme en litige constitue un remboursement au titre du mécanisme de l'indication de paiement prévu par l'article 1340 du code civil ;</p>
+<p>- la majoration de 1,25 prévue par le 2° de l'article 158-7 du code général des impôts a été appliquée de manière erronée à la base taxée en revenus de capitaux mobiliers sur le fondement de l'article 111a de ce code ;</p>
+<p>- la majoration de 40 % pour manquement délibéré est infondée.</p>
+<p>Par des mémoires en défense, enregistrés les 23 août 2022 et 1er décembre 2023, l'administrateur général des finances publiques de la direction spécialisée de contrôle fiscal Centre-Est conclut au rejet de la requête.</p>
+<p>Il soutient que les moyens soulevés par les requérants ne sont pas fondés.</p>
+<p>Un mémoire produit pour le compte de M. et Mme A le 28 novembre 2023 n'a pas été communiqué.</p>
+<p>Vu les autres pièces du dossier. </p>
+<p>Vu : </p>
+<p>- le code général des impôts et le livre des procédures fiscales ; </p>
+<p>- le code de justice administrative. </p>
+<p>Les parties ont été régulièrement averties du jour de l'audience. </p>
+<p>Ont été entendus au cours de l'audience publique : </p>
+<p>- le rapport de Mme Diebold, première conseillère,</p>
+<p>- et les conclusions de Mme Guitard, rapporteure publique. </p>
+<p>Considérant ce qui suit : </p>
+<p>1. M. D A détient une part dans le capital de la société anonyme (SA) Majestic Cinémas dirigée par M. C A. Cette société a fait l'objet d'une vérification de comptabilité portant sur la période du 1er janvier 2015 au 31 décembre 2017, au cours de laquelle un versement d'une somme de 70 000 euros par la société sur un compte au nom du requérant a été constaté. M. et Mme A se sont vu adresser, selon la procédure de rectification contradictoire prévue par l'article L. 55 du livre des procédures fiscales, une proposition de rectification en date du 2 août 2019 les informant des rectifications envisagées en matière d'impôts sur le revenu et de contributions sociales au titre de l'année 2016. Les impositions supplémentaires ont été mises en recouvrement le 30 avril 2021. La réclamation préalable des requérants du 21 janvier 2022 a été rejetée par décision du 10 mars 2022. M. et Mme A demandent au tribunal la décharge de l'imposition supplémentaire au titre des revenus et contributions sociales de l'année 2016 dont ils ont fait l'objet.</p>
+<p>Sur l'étendue du litige : </p>
+<p>2. Par une décision du 30 novembre 2023, postérieure à l'introduction de la requête, l'administrateur général des finances publiques de la direction spécialisée de contrôle fiscal Centre-Est a prononcé le dégrèvement, en droits et pénalités, à concurrence d'une somme de 11 529 euros, de la cotisation supplémentaire d'impôt sur le revenu et sur les prélèvements sociaux à laquelle les requérants ont été assujettis au titre de l'année 2016. Les conclusions de la requête de M. et Mme A relatives à cette imposition sont, dans cette mesure, devenues sans objet.</p>
+<p>Sur le surplus :</p>
+<p>En ce qui concerne le bienfondé des impositions :</p>
+<p>3. Aux termes de l'article 111 du code général des impôts : " Sont notamment considérés comme revenus distribués : / a. Sauf preuve contraire, les sommes mises à la disposition des associés directement ou par personnes ou sociétés interposées à titre d'avances, de prêts ou d'acomptes () ". Il résulte de ces dispositions que l'administration est fondée à intégrer dans le revenu imposable d'un associé au titre d'une année donnée les sommes pour lesquelles elle apporte la preuve qu'elles ont été mises à sa disposition au cours de cette année et, si elles n'ont pas été prélevées par l'intéressé avant la clôture de l'exercice concerné, qu'elles étaient encore à sa disposition à cette date. Pour que ces sommes ne soient pas prises en compte dans le revenu imposable de l'associé, il appartient à celui-ci d'établir qu'il aurait été dans l'impossibilité, s'il l'avait souhaité, de les prélever effectivement.</p>
+<p>4. D'une part, il résulte de l'instruction que la société Majestic Cinémas a procédé, le 16 juin 2016, à un virement d'un montant de 70 000 euros sur le compte bancaire personnel de l'un de ses associés actionnaires, M. D A. En se bornant à soutenir que l'administration n'apporte pas la preuve que cette somme avait été mise à sa disposition à titre d'avances, de prêts ou d'acomptes, et à affirmer, sans apporter aucun justificatif, qu'elle correspondait au remboursement d'un prêt consenti par le requérant au dirigeant de cette société et est remboursée au titre du mécanisme de l'indication de paiement, ou encore que le virement ainsi opéré n'a généré aucune variation négative des capitaux propres de la société, les requérants n'apportent aucun élément permettant de combattre la présomption, tirée de l'application du a. de l'article 111 du code général des impôts, selon laquelle le montant de 70 000 euros ainsi mis à leur disposition présentait le caractère d'un revenu distribué entre leurs mains.</p>
+<p>5. D'autre part, M. et Mme A ne sont pas fondés à se prévaloir, sur le fondement de l'article L. 80 A du livre des procédures fiscales, de la doctrine administrative référencée BOI-RPPM-RCM-10-20-20-20 n° 120, qui précise les modalités d'apport de la preuve contraire susceptible de faire échec à la présomption de distribution et qui ne comporte aucune interprétation différente de celle qui résulte de la loi fiscale dont il a été fait application.</p>
+<p>En ce qui concerne les pénalités : </p>
+<p>6. Aux termes des dispositions de l'article 1729 du code général des impôts : " () Les inexactitudes ou les omissions relevées dans une déclaration ou un acte comportant l'indication d'éléments à retenir pour l'assiette ou la liquidation de l'impôt ainsi que la restitution d'une créance de nature fiscale dont le versement a été indûment obtenu de l'Etat entraînent l'application d'une majoration de () c. 80 % en cas de manœuvres frauduleuses ou de dissimulation d'une partie du prix stipulé dans un contrat ou en cas d'application de l'article 792 bis. ". Aux termes de l'article L. 195 A du livre des procédures fiscales : " En cas de contestation des pénalités fiscales appliquées à un contribuable au titre des impôts directs, de la taxe sur la valeur ajoutée et des autres taxes sur le chiffre d'affaires, des droits d'enregistrement, de la taxe de publicité foncière et du droit de timbre, la preuve de la mauvaise foi et des manœuvres frauduleuses incombe à l'administration ". Il résulte de ces dispositions que la majoration pour manquement délibéré a pour seul objet de sanctionner la méconnaissance par le contribuable de ses obligations déclaratives. Pour établir le caractère délibéré du manquement reproché au contribuable, l'administration doit apporter la preuve, d'une part, de l'insuffisance, de l'inexactitude ou du caractère incomplet des déclarations et, d'autre part, de l'intention de l'intéressé d'éluder l'impôt.</p>
+<p>7. Dans la proposition de rectification, l'administration a fait valoir que l'application d'une telle majoration était jugée bien-fondée à l'égard de l'associé d'une société qui avait bénéficié de l'appréhension directe de fonds sociaux sans contrepartie, en l'absence de service ou prestation effectués pour le compte de la société, ou encore d'une convention passée avec la société dans le cadre de laquelle s'inscrirait ce transfert. Elle a également souligné que le requérant n'était pas titulaire d'un compte-courant ouvert à son nom dans les écritures de la société, alors que son père M. C A l'était, et que la somme en litige a été inscrite sur le compte-courant de ce dernier afin de donner l'apparence qu'il était bénéficiaire de ces fonds. Enfin, il était mentionné l'importance de cette somme de 70 000 euros, qui représente 24 % du montant des revenus déclarés au titre de 2016 par les requérants. L'administration fiscale doit être regardée comme apportant ainsi la preuve, qui lui incombe, de l'intention délibérée du requérant d'éluder l'impôt et, par conséquent, du bien-fondé des pénalités en cause. Par suite, c'est à bon droit que les cotisations supplémentaires d'impôt sur le revenu et de contributions sociales ont été majorées des pénalités pour manquement délibéré. M. et Mme A ne sont dès lors pas fondés à soutenir que c'est à tort que l'administration a assorti les rectifications en litige des pénalités pour manquement délibéré.</p>
+<p>8. Il résulte de tout ce qui précède que le surplus des conclusions à fin d'annulation et de décharge de la requête doit être rejeté.</p>
+<p>Sur les frais liés au litige :</p>
+<p>9. Aux termes de l'article L. 761-1 du code de justice administrative : " Dans toutes les instances, le juge condamne la partie tenue aux dépens ou, à défaut, la partie perdante, à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. Le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation ".</p>
+<p>10. Ces dispositions font obstacle à ce qu'il soit mis à la charge de l'Etat, qui n'est pas la partie perdante dans la présente instance, le versement de la somme demandée par les requérants.</p>
+<p>DECIDE :</p>
+<p>Article 1er : Il n'y a pas lieu de statuer sur les conclusions de la requête de M. et Mme A, à concurrence du dégrèvement des cotisations supplémentaires d'impôt sur le revenu et sur les prélèvements sociaux prononcé à hauteur de 11 529 euros par l'administrateur général des finances publiques de la direction spécialisée de contrôle fiscal Centre-Est le 30 novembre 2023 au titre de l'année 2016.</p>
+<p>Article 2 : Le surplus de la requête de M. et Mme A est rejeté.</p>
+<p>Article 3 : Le présent jugement sera notifié à M. D A, Mme B A et à l'administrateur général des finances publiques de la direction spécialisée de contrôle fiscal Centre-Est.</p>
+<p>Délibéré après l'audience du 5 décembre 2023, à laquelle siégeaient :</p>
+<p>- Mme Schmerber, présidente,</p>
+<p>- Mme Diebold, première conseillère,</p>
+<p>- Mme Goyer-Tholon, conseillère.</p>
+<p>Rendu public par mise à disposition au greffe le 9 janvier 2024. </p>
+<p>La rapporteure,</p>
+<p>N. DieboldLa présidente,</p>
+<p>C. Schmerber</p>
+<p>La greffière,</p>
+<p>E. Cartier</p>
+<p>La République mande et ordonne au ministre de l'économie, des finances et de la souveraineté industrielle et numérique en ce qui le concerne ou à tous commissaires de justice à ce requis en ce qui concerne les voies de droit commun contre les parties privées, de pourvoir à l'exécution de la présente décision.</p>
+<p>Pour expédition conforme,</p>
+<p>La greffière</p></Texte_Integral>
+</Decision>
+</Document>

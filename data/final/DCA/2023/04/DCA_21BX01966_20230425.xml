@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validation-document.xsd">
+<Donnees_Techniques>
+<Identification>DCA_21BX01966_20230425.xml</Identification>
+<Date_Mise_Jour>2023-05-04</Date_Mise_Jour>
+</Donnees_Techniques>
+<Dossier>
+<Code_Juridiction>CAA33</Code_Juridiction>
+<Nom_Juridiction>Cour administrative d'appel de Bordeaux</Nom_Juridiction>
+<Numero_Dossier>21BX01966</Numero_Dossier>
+<Date_Lecture>2023-04-25</Date_Lecture>
+<Avocat_Requerant>SELARL JOUTEUX CARRE-GUILLOT PILON</Avocat_Requerant>
+<Type_Decision>Décision</Type_Decision>
+<Type_Recours>plein contentieux</Type_Recours>
+<Code_Publication>C</Code_Publication>
+<Solution>Rejet</Solution>
+</Dossier>
+<Audience>
+<Date_Audience>2023-04-04</Date_Audience>
+<Numero_Role>23096</Numero_Role>
+<Formation_Jugement>4ème chambre (formation à 3)</Formation_Jugement>
+</Audience>
+<Decision>
+<Texte_Integral><p>Vu la procédure suivante :</p>
+<p>Mme B C a demandé au tribunal administratif de Poitiers de prononcer la décharge des cotisations supplémentaires d'impôt sur le revenu et de contributions sociales mises à sa charge au titre des années 2014, 2015 et 2016. </p>
+<p>Par un jugement n° 1902403, 1902404 du 11 mars 2021, le tribunal administratif de Poitiers a substitué la majoration de 40 % en cas de manquement délibéré prévue par l'article 1729 du code général des impôts à la majoration de 80 % en cas de manœuvres frauduleuses dont ont été assorties les cotisations supplémentaires d'impôt sur le revenu et de contributions sociales auxquelles a été assujettie Mme C et a rejeté le surplus de sa demande.</p>
+<p>Procédure devant la cour :</p>
+<p>Par une requête enregistrée le 12 mai 2021, Mme B C, représentée par Me Pilon, demande à la cour : </p>
+<p>1°) de réformer le jugement n° 1902403, 1902404 du 11 mars 2021 du tribunal administratif de Poitiers ; </p>
+<p>2°) de prononcer la décharge des cotisations supplémentaires d'impôt sur le revenu et de contributions sociales mises à sa charge au titre des années 2014, 2015 et 2016 pour un montant total en droits et pénalités de 47 066 euros ; </p>
+<p>3°) de mettre à la charge de l'Etat la somme de 2 500 euros sur le fondement de l'article L. 761-1 du code de justice administrative. </p>
+<p>Elle soutient que :</p>
+<p>- le procès-verbal de constat établi le 25 septembre 2018 par huissier de justice démontre que les dysfonctionnements du logiciel métier dénommé Rapido utilisé se trouvent à l'origine des ruptures dans la numérotation séquentielle des factures ainsi que des suppressions et modifications des données ; les premiers juges ont commis une erreur d'appréciation en considérant que l'administration fiscale pouvait rejeter la comptabilité de l'entreprise unipersonnelle à responsabilité limitée (EURL) Val de Vienne et procéder à une reconstitution du chiffre d'affaires de cette société ; </p>
+<p>- s'agissant de la reconstitution du chiffre d'affaires, les premiers juges ont manifestement commis une erreur d'appréciation et une erreur de droit ; les  interventions manuelles de la part de l'EURL Val de Vienne avaient pour objet de corriger des erreurs commises par le logiciel afin que la comptabilité de l'entreprise correspondent à la réalité des prestations facturées et réglées ; en se fondant sur ces erreurs liées à un fonctionnement défectueux du logiciel, l'administration fiscale a exagéré la base d'imposition ; </p>
+<p>- la circonstance qu'elle était l'associée unique et gérante de l'EURL Val de Vienne ne permet pas d'affirmer qu'elle aurait bénéficié d'une distribution de revenus par cette société en sa qualité de maître de l'affaire ; la comptabilité de la société n'établit pas qu'elle aurait bénéficié de sommes distribuées au-delà de celles déclarées par celle-ci ; </p>
+<p>- s'agissant des pénalités, elle apporte la preuve qu'elle n'a jamais eu l'intention d'éluder l'impôt dans la mesure où les données liées à l'activité de l'EURL Val de Vienne ont été tronquées par un outil générant de nombreuses erreurs dont elle n'était pas à l'origine.</p>
+<p>Par un mémoire en défense enregistré le 22 novembre 2021, le ministre de l'économie, des finances et de la relance conclut au rejet de la requête. </p>
+<p>Il fait valoir que : </p>
+<p>- les moyens soulevés par la requérante ne sont pas fondés ; </p>
+<p>- à titre subsidiaire, il entend former une substitution de base légale pour retenir comme fondement des distributions opérées l'article 111-c du code général des impôts.  </p>
+<p>Par ordonnance du 4 avril 2022, la clôture d'instruction a été fixée au 28 avril 2022 à 12h00. </p>
+<p>Vu les autres pièces du dossier.</p>
+<p>Vu :</p>
+<p>- le code général des impôts et le livre des procédures fiscales ; </p>
+<p>- le code de justice administrative.</p>
+<p>Les parties ont été régulièrement averties du jour de l'audience.</p>
+<p>Ont été entendus au cours de l'audience publique :</p>
+<p>- le rapport de Mme D A,</p>
+<p>- et les conclusions de Mme Cécile Cabanne, rapporteure publique. </p>
+<p>Considérant ce qui suit :</p>
+<p>1. L'entreprise unipersonnelle à responsabilité limitée (EURL) Val de Vienne, dont l'associée unique et gérante est Mme C, exploite à Châtellerault une auto-école. Elle a fait l'objet d'une vérification de sa comptabilité portant sur la période du 1er juillet 2013 au 30 septembre 2016, avec extension en matière de taxe sur la valeur ajoutée jusqu'au 28 février 2017. A l'issue de cette vérification, l'administration fiscale, après avoir écarté la comptabilité comme non probante, a procédé à la reconstitution du chiffre d'affaires, en réintégrant dans le montant des recettes d'activité des règlements supprimés ou modifiés. Ce contrôle et cette reconstitution ont conduit le service à identifier l'existence de revenus distribués taxables entre les mains de Mme C sur le fondement du 1 de l'article 109 du code général des impôts. Par proposition de rectification du 30 novembre 2017, l'administration fiscale a notifié à cette dernière des rehaussements d'impôt sur le revenu et de contributions sociales au titre des années 2014, 2015 et 2016 résultant de la réintégration, dans son revenu imposable, de ces revenus distribués. Ces cotisations supplémentaires et les pénalités correspondantes, ont été mises en recouvrement le 30 avril 2019. Mme C relève appel du jugement n° 1902403, 1902404 du 11 mars 2021 par lequel le tribunal administratif de Poitiers, après avoir procédé à la substitution de la majoration de 40 % en cas de manquement délibéré prévue par l'article 1729 du code général des impôts à la majoration de 80 % en cas de manœuvres frauduleuses, a rejeté le surplus de sa demande. </p>
+<p>Sur le bien-fondé de l'imposition : </p>
+<p>En ce qui concerne le rejet de la comptabilité :</p>
+<p>2. Pour rejeter la comptabilité de l'EURL Val de Vienne, au titre des années 2014 à 2016 pour défaut de valeur probante, l'administration a examiné sur le fondement de l'article L. 47 A du code général des impôts, la copie des fichiers des écritures comptables relatifs aux exercices clos ainsi que l'ensemble des informations, données et traitements informatiques ayant concouru directement ou indirectement à la formation des résultats comptables ou fiscaux. A l'issue de cet examen, elle a constaté des ruptures de séquentialité des numéros de factures, des modifications ou des suppressions intervenues dans les dossiers des candidats, les heures ou les règlements effectués, parfois postérieurement à leur réalisation ainsi que l'absence de brouillard de caisse, récapitulant les mouvements d'espèces. Les modifications portent dans la majorité des cas sur des coûts facturés à la baisse. La comparaison des dossiers clients détenus par l'entreprise et des fiches clients éditées au cours du contrôle a révélé des discordances tant au niveau des prestations effectuées que des sommes encaissées. Lors d'un compte rendu d'étape établi le 3 août 2017 par l'administration, contresigné sans aucune réserve le lendemain par Mme C, cette dernière a admis avoir prélevé des sommes pour ses besoins personnels, après avoir supprimé leur mention dans le logiciel de gestion et ne pas les avoir inscrites en comptabilité. En constatant l'omission de recettes à l'encontre duquel la requérante se contente de faire valoir que le logiciel métier " Rapido " qu'elle utilisait comportait des anomalies, l'administration doit être regardée, ainsi que l'ont retenu les premiers juges, comme apportant la preuve de l'insincérité de la comptabilité, régulière en la forme, de ladite entreprise.</p>
+<p>En ce qui concerne la reconstitution de recettes :</p>
+<p>3. Il résulte de l'instruction, ainsi que l'ont retenu les premiers juges, que pour reconstituer les recettes éludées, l'administration a réintégré dans le montant total des recettes d'activité, servant à la détermination du bénéfice imposable, sur le fondement des dispositions de l'article 38-1 du code général des impôts les montants des recettes, supprimées ou modifiées, retracées dans les fichiers complémentaires du logiciel Rapido. En se bornant à faire valoir qu'elle a cherché à rectifier manuellement les erreurs commises par le logiciel de gestion, Mme C n'établit pas que la méthode utilisée par l'administration, qui avait pris en compte les opérations pour lesquelles la société avait apporté des justifications, aboutit à une exagération des impositions supplémentaires mises à sa charge. Dans ces conditions, le moyen tiré de ce que la méthode de reconstitution des recettes retenue par l'administration serait erronée ne peut qu'être écarté.</p>
+<p>En ce qui concerne l'appréhension des distributions : </p>
+<p>4. Il résulte de l'instruction que Mme C est l'unique détentrice des parts sociales de l'EURL Val de Vienne dont elle est également la gérante. Elle assure la gestion de la caisse de l'auto-école et du compte bancaire, la direction de l'entreprise. Elle possède la maîtrise totale des fonds de la société et dépose, soit elle-même, soit par le biais de sa secrétaire ou d'une monitrice, les chèques et espèces auprès de l'établissement bancaire. Ainsi qu'il a été dit au point 2, l'intéressée a admis formellement avoir prélevé des sommes, encaissées au titre de son activité, pour ses besoins personnels. Par suite, l'administration fiscale pouvait à bon droit regarder l'intéressée comme ayant appréhendé les revenus distribués par l'entreprise. </p>
+<p>Sur les pénalités :</p>
+<p>5. Aux termes de l'article 1729 du code général des impôts : " Les inexactitudes ou les omissions relevées dans une déclaration ou un acte comportant l'indication d'éléments à retenir pour l'assiette ou la liquidation de l'impôt ainsi que la restitution d'une créance de nature fiscale dont le versement a été indûment obtenu de l'Etat entraînent l'application d'une majoration de :/ a. 40 % en cas de manquement délibéré ; () ".</p>
+<p>6. Pour justifier l'application de pénalités pour manquement délibéré aux rectifications établies en matière d'impôt sur le revenu et de contributions sociales mises à la charge de la requérante, l'administration s'est fondée sur l'importance des montants des revenus distribués et le caractère intentionnel visant à utiliser une application informatique pour ne pas déclarer des opérations imposables et donner une apparence de sincérité à la comptabilité présentée. En se fondant sur ces éléments qui ont porté sur trois années contrôlées, l'administration doit être regardée comme apportant la preuve, qui lui incombe, de l'intention délibérée de Mme C d'éluder l'impôt. </p>
+<p>7. Il résulte de ce qui précède, sans qu'il soit besoin de se prononcer sur la substitution de base légale proposée, que Mme C n'est pas fondée à soutenir que c'est à tort que, par le jugement attaqué, le tribunal administratif de Poitiers a rejeté sa demande.  </p>
+<p>Sur les frais liés à l'instance :</p>
+<p>8. Les dispositions de l'article L. 761-1 du code de justice administrative font obstacle à ce que soit mise à la charge de l'Etat, qui n'est pas la partie perdante dans la présente instance, la somme que demande Mme C en application de ces dispositions.</p>
+<p>DECIDE :</p>
+<p>Article 1er : La requête de Mme C est rejetée.  </p>
+<p>Article 2 : Le présent arrêt sera notifié à Mme B C et au ministre de l'économie, des finances, et de la souveraineté industrielle et numérique. </p>
+<p>Copie en sera communiquée à la direction spécialisée de contrôle fiscal sud-ouest. </p>
+<p>Délibéré après l'audience du 4 avril 2023 à laquelle siégeaient :</p>
+<p>Mme Evelyne Balzamo, présidente,</p>
+<p>Mme Bénédicte Martin, présidente-assesseure,</p>
+<p>Mme Pauline Reynaud, première conseillère,</p>
+<p>Rendu public par mise à disposition au greffe, le 25 avril 2023.</p>
+<p>La rapporteure,</p>
+<p>Bénédicte ALa présidente,</p>
+<p>Evelyne Balzamo</p>
+<p>Le greffier,</p>
+<p>Christophe Pelletier</p>
+<p>La République mande et ordonne au ministre de l'économie, des finances, et de la souveraineté industrielle et numérique en ce qui le concerne, et à tous commissaires de justice à ce requis, en ce qui concerne les voies de droit commun contre les parties privées, de pourvoir à l'exécution du présent arrêt.</p>
+</Texte_Integral>
+</Decision>
+</Document>
